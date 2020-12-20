@@ -11,6 +11,7 @@ import urllib.request
 def main():
     with open('config.json') as f:
         config = json.load(f)
+        random.shuffle(config)
 
     driver = webdriver.Chrome()
     driver.implicitly_wait(10)
