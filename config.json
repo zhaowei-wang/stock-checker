@@ -1,0 +1,560 @@
+[{
+    "name": "Newegg.ca - MSI 3080 Suprim",
+    "url": "https://www.newegg.ca/msi-geforce-rtx-3080-rtx3080-suprim-x-10g/p/N82E16814137609?Description=3080&cm_re=3080-_-14-137-609-_-Product&RandomID=34471174112247220201218081611", 
+    "xpath": "//*[@id=\"app\"]/div[2]/div[1]/div/div/div[1]/div[1]/div[1]/div/div/span",
+    "expected_text": "CURRENTLY SOLD OUT",
+    "negate_check": true
+},
+{
+    "name": "Newegg.ca - EVGA 3080 FTW3",
+    "url": "https://www.newegg.ca/evga-geforce-rtx-3080-10g-p5-3897-kr/p/N82E16814487518?Description=3080&cm_re=3080-_-14-487-518-_-Product", 
+    "xpath": "//*[@id=\"app\"]/div[2]/div[1]/div/div/div[1]/div[1]/div[1]/div/div/span",
+    "expected_text": "CURRENTLY SOLD OUT",
+    "negate_check": true
+},
+{
+    "name": "Newegg.ca - MSI 3080 VENTUS",
+    "url": "https://www.newegg.ca/msi-geforce-rtx-3080-rtx-3080-ventus-3x-10g-oc/p/N82E16814137598?Description=3080&cm_re=3080-_-14-137-598-_-Product", 
+    "xpath": "//*[@id=\"app\"]/div[2]/div[1]/div/div/div[1]/div[1]/div[1]/div/div/span",
+    "expected_text": "CURRENTLY SOLD OUT",
+    "negate_check": true
+},
+{
+    "name": "Newegg.ca - MSI 3080 GAMING X TRIO",
+    "url": "https://www.newegg.ca/msi-geforce-rtx-3080-rtx-3080-gaming-x-trio-10g/p/N82E16814137597?Description=3080&cm_re=3080-_-14-137-597-_-Product", 
+    "xpath": "//*[@id=\"app\"]/div[2]/div[1]/div/div/div[1]/div[1]/div[1]/div/div/span",
+    "expected_text": "CURRENTLY SOLD OUT",
+    "negate_check": true
+},
+{
+    "name": "Newegg.ca - ASUS 3080 TUF",
+    "url": "https://www.newegg.ca/asus-geforce-rtx-3080-tuf-rtx3080-10g-gaming/p/N82E16814126453?Description=3080&cm_re=3080-_-14-126-453-_-Product", 
+    "xpath": "//*[@id=\"app\"]/div[2]/div[1]/div/div/div[1]/div[1]/div[1]/div/div/span",
+    "expected_text": "CURRENTLY SOLD OUT",
+    "negate_check": true
+},
+{
+    "name": "Newegg.ca - EVGA 3080 XC3 ULTRA",
+    "url": "https://www.newegg.ca/evga-geforce-rtx-3080-10g-p5-3885-kr/p/N82E16814487520?Description=3080&cm_re=3080-_-14-487-520-_-Product", 
+    "xpath": "//*[@id=\"app\"]/div[2]/div[1]/div/div/div[1]/div[1]/div[1]/div/div/span",
+    "expected_text": "CURRENTLY SOLD OUT",
+    "negate_check": true
+},
+{
+    "name": "Newegg.ca - ASUS 3080 ROG Strix",
+    "url": "https://www.newegg.ca/asus-geforce-rtx-3080-rog-strix-rtx3080-o10g-gaming/p/N82E16814126457?Description=3080&cm_re=3080-_-14-126-457-_-Product", 
+    "xpath": "//*[@id=\"app\"]/div[2]/div[1]/div/div/div[1]/div[1]/div[1]/div/div/span",
+    "expected_text": "CURRENTLY SOLD OUT",
+    "negate_check": true
+},
+{
+    "name": "Newegg.ca - GIGABYTE 3080 Aorus",
+    "url": "https://www.newegg.ca/gigabyte-geforce-rtx-3080-gv-n3080aorus-m-10gd/p/N82E16814932336?Description=3080&cm_re=3080-_-14-932-336-_-Product", 
+    "xpath": "//*[@id=\"app\"]/div[2]/div[1]/div/div/div[1]/div[1]/div[1]/div/div/span",
+    "expected_text": "CURRENTLY SOLD OUT",
+    "negate_check": true
+},
+{
+    "name": "Newegg.ca - GIGABYTE 3080 GV",
+    "url": "https://www.newegg.ca/gigabyte-geforce-rtx-3080-gv-n3080gaming-oc-10gd/p/N82E16814932329?Description=3080&cm_re=3080-_-14-932-329-_-Product", 
+    "xpath": "//*[@id=\"app\"]/div[2]/div[1]/div/div/div[1]/div[1]/div[1]/div/div/span",
+    "expected_text": "CURRENTLY SOLD OUT",
+    "negate_check": true
+},
+{
+    "name": "Newegg.ca - EVGA 3080 XC3 Gaming",
+    "url": "https://www.newegg.ca/evga-geforce-rtx-3080-10g-p5-3883-kr/p/N82E16814487521?Description=3080&cm_re=3080-_-14-487-521-_-Product", 
+    "xpath": "//*[@id=\"app\"]/div[2]/div[1]/div/div/div[1]/div[1]/div[1]/div/div/span",
+    "expected_text": "CURRENTLY SOLD OUT",
+    "negate_check": true
+},
+{
+    "name": "Newegg.ca - EVGA 3080 XC3 Black",
+    "url": "https://www.newegg.ca/evga-geforce-rtx-3080-10g-p5-3881-kr/p/N82E16814487522?Description=3080&cm_re=3080-_-14-487-522-_-Product", 
+    "xpath": "//*[@id=\"app\"]/div[2]/div[1]/div/div/div[1]/div[1]/div[1]/div/div/span",
+    "expected_text": "CURRENTLY SOLD OUT",
+    "negate_check": true
+},
+{
+    "name": "Newegg.ca - MSI 3090 Suprim",
+    "url": "https://www.newegg.ca/msi-geforce-rtx-3090-rtx3090-suprim-x-24g/p/N82E16814137610?Description=3090&cm_re=3090-_-14-137-610-_-Product", 
+    "xpath": "//*[@id=\"app\"]/div[2]/div[1]/div/div/div[1]/div[1]/div[1]/div/div/span",
+    "expected_text": "CURRENTLY SOLD OUT",
+    "negate_check": true
+},
+{
+    "name": "Newegg.ca - EVGA 3090 FTW3",
+    "url": "https://www.newegg.ca/evga-geforce-rtx-3090-24g-p5-3987-kr/p/N82E16814487526?Description=3090&cm_re=3090-_-14-487-526-_-Product", 
+    "xpath": "//*[@id=\"app\"]/div[2]/div[1]/div/div/div[1]/div[1]/div[1]/div/div/span",
+    "expected_text": "CURRENTLY SOLD OUT",
+    "negate_check": true
+},
+{
+    "name": "Newegg.ca - ASUS 3090 TUF",
+    "url": "https://www.newegg.ca/asus-geforce-rtx-3090-tuf-rtx3090-o24g-gaming/p/N82E16814126454?Item=N82E16814126454&Description=3090&cm_re=3090-_-14-126-454-_-Product", 
+    "xpath": "//*[@id=\"app\"]/div[2]/div[1]/div/div/div[1]/div[1]/div[1]/div/div/span",
+    "expected_text": "CURRENTLY SOLD OUT",
+    "negate_check": true
+},
+{
+    "name": "Newegg.ca - MSI 3090 VENTUS",
+    "url": "https://www.newegg.ca/msi-geforce-rtx-3090-rtx-3090-ventus-3x-24g-oc/p/N82E16814137596?Item=N82E16814137596&Description=3090&cm_re=3090-_-14-137-596-_-Product", 
+    "xpath": "//*[@id=\"app\"]/div[2]/div[1]/div/div/div[1]/div[1]/div[1]/div/div/span",
+    "expected_text": "CURRENTLY SOLD OUT",
+    "negate_check": true
+},
+{
+    "name": "Newegg.ca - GIGABYTE 3090 Aorus",
+    "url": "https://www.newegg.ca/gigabyte-geforce-rtx-3090-gv-n3090aorus-m-24gd/p/N82E16814932341?Item=N82E16814932341&Description=3090&cm_re=3090-_-14-932-341-_-Product", 
+    "xpath": "//*[@id=\"app\"]/div[2]/div[1]/div/div/div[1]/div[1]/div[1]/div/div/span",
+    "expected_text": "CURRENTLY SOLD OUT",
+    "negate_check": true
+},
+{
+    "name": "Newegg.ca - ASUS 3090 STRIX",
+    "url": "https://www.newegg.ca/asus-geforce-rtx-3090-rog-strix-rtx3090-o24g-gaming/p/N82E16814126456?Item=N82E16814126456&Description=3090&cm_re=3090-_-14-126-456-_-Product", 
+    "xpath": "//*[@id=\"app\"]/div[2]/div[1]/div/div/div[1]/div[1]/div[1]/div/div/span",
+    "expected_text": "OUT OF STOCK",
+    "negate_check": true
+},
+{
+    "name": "Newegg.ca - EVGA 3090 XC3 ULTRA",
+    "url": "https://www.newegg.ca/evga-geforce-rtx-3090-24g-p5-3975-kr/p/N82E16814487524?Item=N82E16814487524&Description=3090&cm_re=3090-_-14-487-524-_-Product", 
+    "xpath": "//*[@id=\"app\"]/div[2]/div[1]/div/div/div[1]/div[1]/div[1]/div/div/span",
+    "expected_text": "CURRENTLY SOLD OUT",
+    "negate_check": true
+},
+{
+    "name": "Newegg.ca - EVGA 3090 XC3 GAMING",
+    "url": "https://www.newegg.ca/evga-geforce-rtx-3090-24g-p5-3973-kr/p/N82E16814487523?Item=N82E16814487523&Description=3090&cm_re=3090-_-14-487-523-_-Product", 
+    "xpath": "//*[@id=\"app\"]/div[2]/div[1]/div/div/div[1]/div[1]/div[1]/div/div/span",
+    "expected_text": "CURRENTLY SOLD OUT",
+    "negate_check": true
+},
+{
+    "name": "Newegg.ca - MSI 3090 GAMING X TRIO",
+    "url": "https://www.newegg.ca/msi-geforce-rtx-3090-rtx-3090-gaming-x-trio-24g/p/N82E16814137595?Item=N82E16814137595&Description=3090&cm_re=3090-_-14-137-595-_-Product", 
+    "xpath": "//*[@id=\"app\"]/div[2]/div[1]/div/div/div[1]/div[1]/div[1]/div/div/span",
+    "expected_text": "CURRENTLY SOLD OUT",
+    "negate_check": true
+},
+{
+    "name": "Newegg.ca - MSI 3090 VENTUS",
+    "url": "https://www.newegg.ca/msi-geforce-rtx-3090-rtx-3090-ventus-3x-24g/p/N82E16814137599?Item=N82E16814137599&Description=3090&cm_re=3090-_-14-137-599-_-Product", 
+    "xpath": "//*[@id=\"app\"]/div[2]/div[1]/div/div/div[1]/div[1]/div[1]/div/div/span",
+    "expected_text": "CURRENTLY SOLD OUT",
+    "negate_check": true
+},
+{
+    "name": "Bestbuy.ca - MSI 3090 VENTUS",
+    "url": "https://www.bestbuy.ca/en-ca/product/msi-nvidia-geforce-rtx-3090-ventus-3x-oc-24gb-gddr6x-video-card/14966477", 
+    "xpath": "//*[@id=\"root\"]/div/div/div[4]/div[1]/div[2]/div[2]/div[5]/div/div[1]/div/p/span",
+    "expected_text": "Coming soon",
+    "negate_check": true
+},
+{
+    "name": "Bestbuy.ca - EVGA 3090 XC3 ULTRA",
+    "url": "https://www.bestbuy.ca/en-ca/product/evga-nvidia-geforce-rtx-3090-xc3-ultra-gaming-24gb-gddr6x-video-card/14967857", 
+    "xpath": "//*[@id=\"root\"]/div/div/div[4]/div[1]/div[2]/div[2]/div[5]/div/div[1]/div/p/span",
+    "expected_text": "Coming soon",
+    "negate_check": true
+},
+{
+    "name": "Bestbuy.ca - ASUS 3090 TUF",
+    "url": "https://www.bestbuy.ca/en-ca/product/asus-tuf-gaming-nvidia-geforce-rtx-3090-24gb-gddr6x-video-card/14953247", 
+    "xpath": "//*[@id=\"root\"]/div/div/div[4]/div[1]/div[2]/div[2]/div[5]/div/div[1]/div/p/span",
+    "expected_text": "Coming soon",
+    "negate_check": true
+},
+{
+    "name": "Bestbuy.ca - ZOTAC 3090 Trinity",
+    "url": "https://www.bestbuy.ca/en-ca/product/zotac-nvidia-geforce-rtx-3090-trinity-24gb-gddr6x-video-card/14953250", 
+    "xpath": "//*[@id=\"root\"]/div/div/div[4]/div[1]/div[2]/div[2]/div[5]/div/div[1]/div/p/span",
+    "expected_text": "Coming soon",
+    "negate_check": true
+},
+{
+    "name": "Bestbuy.ca - MSI 3080 Ventus",
+    "url": "https://www.bestbuy.ca/en-ca/product/msi-nvidia-geforce-rtx-3080-ventus-3x-10gb-gddr6x-video-card/14950588", 
+    "xpath": "//*[@id=\"root\"]/div/div/div[4]/div[1]/div[2]/div[2]/div[5]/div/div[1]/div/p/span",
+    "expected_text": "Coming soon",
+    "negate_check": true
+},
+{
+    "name": "Bestbuy.ca - ZOTAC 3080 Trinity",
+    "url": "https://www.bestbuy.ca/en-ca/product/zotac-nvidia-geforce-rtx-3080-trinity-10gb-gddr6x-video-card/14953249", 
+    "xpath": "//*[@id=\"root\"]/div/div/div[4]/div[1]/div[2]/div[2]/div[5]/div/div[1]/div/p/span",
+    "expected_text": "Coming soon",
+    "negate_check": true
+},
+{
+    "name": "Bestbuy.ca - ASUS 3080 TUF",
+    "url": "https://www.bestbuy.ca/en-ca/product/asus-tuf-gaming-nvidia-geforce-rtx-3080-10gb-gddr6x-video-card/14953248", 
+    "xpath": "//*[@id=\"root\"]/div/div/div[4]/div[1]/div[2]/div[2]/div[5]/div/div[1]/div/p/span",
+    "expected_text": "Coming soon",
+    "negate_check": true
+},
+{
+    "name": "Bestbuy.ca - EVGA 3080 XC3 ULTRA",
+    "url": "https://www.bestbuy.ca/en-ca/product/evga-geforce-rtx-3080-xc3-ultra-gaming-10gb-gddr6x-video-card/15084753", 
+    "xpath": "//*[@id=\"root\"]/div/div/div[4]/div[1]/div[2]/div[2]/div[5]/div/div[1]/div/p/span",
+    "expected_text": "Coming soon",
+    "negate_check": true
+},
+{
+    "name": "cdw.ca - Gigabyte 3080 Gaming OC",
+    "url": "https://www.cdw.ca/product/gigabyte-geforce-rtx-3080-gaming-oc-10g-graphics-card-gf-rtx-3080-10/6252788?pfm=srh", 
+    "xpath": "//*[@id=\"main\"]/div/div[1]/div[2]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/span[2]",
+    "expected_text": "3-6 Business Days",
+    "negate_check": true
+},
+{
+    "name": "cdw.ca - Asus TUF-RTX3080-O10G-GAMING - OC Edition",
+    "url": "https://www.cdw.ca/product/asus-tuf-rtx3080-o10g-gaming-oc-edition-graphics-card-gf-rtx-3080-1/6258286?pfm=srh", 
+    "xpath": "//*[@id=\"main\"]/div/div[1]/div[2]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/span[2]",
+    "expected_text": "3-6 Business Days",
+    "negate_check": true
+},
+{
+    "name": "cdw.ca - EVGA GeForce RTX 3080 FTW3 ULTRA GAMING",
+    "url": "https://www.cdw.ca/product/evga-geforce-rtx-3080-ftw3-ultra-gaming-graphics-card-gf-rtx-3080-10/6248202?pfm=srh", 
+    "xpath": "//*[@id=\"main\"]/div/div[1]/div[2]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/span[2]",
+    "expected_text": "3-6 Business Days",
+    "negate_check": true
+},
+{
+    "name": "cdw.ca - Gigabyte GeForce RTX 3080 EAGLE OC 10G",
+    "url": "https://www.cdw.ca/product/gigabyte-geforce-rtx-3080-eagle-oc-10g-oc-edition-graphics-card-gf-rt/6252790?pfm=srh", 
+    "xpath": "//*[@id=\"main\"]/div/div[1]/div[2]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/span[2]",
+    "expected_text": "3-6 Business Days",
+    "negate_check": true
+},
+{
+    "name": "cdw.ca - Asus TUF-RTX3080-10G-GAMING",
+    "url": "https://www.cdw.ca/product/asus-tuf-rtx3080-10g-gaming-graphics-card-gf-rtx-3080-10-gb/6261636?pfm=srh", 
+    "xpath": "//*[@id=\"main\"]/div/div[1]/div[2]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/span[2]",
+    "expected_text": "3-6 Business Days",
+    "negate_check": true
+},
+{
+    "name": "cdw.ca - PNY XLR8 GeForce RTX 3080 Gaming EPIC-X RGB",
+    "url": "https://www.cdw.ca/product/pny-xlr8-geforce-rtx-3080-gaming-epic-x-rgb-xlr8-gaming-edition-graphic/6251397?pfm=srh", 
+    "xpath": "//*[@id=\"main\"]/div/div[1]/div[2]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/span[2]",
+    "expected_text": "3-6 Business Days",
+    "negate_check": true
+},
+{
+    "name": "cdw.ca - EVGA GeForce RTX 3080 XC3 BLACK GAMING",
+    "url": "https://www.cdw.ca/product/evga-geforce-rtx-3080-xc3-black-gaming-graphics-card-gf-rtx-3080-10-g/6252786?pfm=srh", 
+    "xpath": "//*[@id=\"main\"]/div/div[1]/div[2]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/span[2]",
+    "expected_text": "3-6 Business Days",
+    "negate_check": true
+},
+{
+    "name": "cdw.ca - MSI RTX 3080 VENTUS 3X 10G OC",
+    "url": "https://www.cdw.ca/product/msi-rtx-3080-ventus-3x-10g-oc-graphics-card-gf-rtx-3080-10-gb/6261175?pfm=srh", 
+    "xpath": "//*[@id=\"main\"]/div/div[1]/div[2]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/span[2]",
+    "expected_text": "3-6 Business Days",
+    "negate_check": true
+},
+{
+    "name": "cdw.ca - EVGA GeForce RTX 3080 XC3 ULTRA GAMING",
+    "url": "https://www.cdw.ca/product/evga-geforce-rtx-3080-xc3-ultra-gaming-graphics-card-gf-rtx-3080-10-g/6266820?pfm=srh", 
+    "xpath": "//*[@id=\"main\"]/div/div[1]/div[2]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/span[2]",
+    "expected_text": "3-6 Business Days",
+    "negate_check": true
+},
+{
+    "name": "cdw.ca - PNY XLR8 GeForce RTX 3080 Gaming EPIC-X RGB",
+    "url": "https://www.cdw.ca/product/pny-xlr8-geforce-rtx-3080-gaming-epic-x-rgb-xlr8-gaming-edition-graphic/6261181?pfm=srh", 
+    "xpath": "//*[@id=\"main\"]/div/div[1]/div[2]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/span[2]",
+    "expected_text": "3-6 Business Days",
+    "negate_check": true
+},
+{
+    "name": "cdw.ca - ZOTAC GAMING GeForce RTX 3080 Trinity",
+    "url": "https://www.cdw.ca/product/zotac-gaming-geforce-rtx-3080-trinity-graphics-card-gf-rtx-3080-10-gb/6261177?pfm=srh", 
+    "xpath": "//*[@id=\"main\"]/div/div[1]/div[2]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/span[2]",
+    "expected_text": "3-6 Business Days",
+    "negate_check": true
+},
+{
+    "name": "cdw.ca - MSI RTX 3080 GAMING X TRIO",
+    "url": "https://www.cdw.ca/product/msi-rtx-3080-gaming-x-trio-graphics-card-gf-rtx-3080-10-gb/6352016?pfm=srh", 
+    "xpath": "//*[@id=\"main\"]/div/div[1]/div[2]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/span[2]",
+    "expected_text": "3-6 Business Days",
+    "negate_check": true
+},
+{
+    "name": "cdw.ca - EVGA GeForce RTX 3080 XC3 GAMING",
+    "url": "https://www.cdw.ca/product/evga-geforce-rtx-3080-xc3-gaming-graphics-card-gf-rtx-3080-10-gb/6266915?pfm=srh", 
+    "xpath": "//*[@id=\"main\"]/div/div[1]/div[2]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/span[2]",
+    "expected_text": "3-6 Business Days",
+    "negate_check": true
+},
+{
+    "name": "cdw.ca - ZOTAC GAMING GeForce RTX 3080 Trinity OC",
+    "url": "https://www.cdw.ca/product/zotac-gaming-geforce-rtx-3080-trinity-oc-graphics-card-gf-rtx-3080-10/6261174?pfm=srh", 
+    "xpath": "//*[@id=\"main\"]/div/div[1]/div[2]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/span[2]",
+    "expected_text": "3-6 Business Days",
+    "negate_check": true
+},
+{
+    "name": "cdw.ca - PNY XLR8 GeForce RTX 3090 Gaming EPIC-X RGB",
+    "url": "https://www.cdw.ca/product/pny-xlr8-geforce-rtx-3090-gaming-epic-x-rgb-xlr8-gaming-edition-graphic/6254352?pfm=srh", 
+    "xpath": "//*[@id=\"main\"]/div/div[1]/div[2]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/span[2]",
+    "expected_text": "3-6 Business Days",
+    "negate_check": true
+},
+{
+    "name": "cdw.ca - Asus TUF-RTX3090-24G-GAMING",
+    "url": "https://www.cdw.ca/product/asus-tuf-rtx3090-24g-gaming-graphics-card-gf-rtx-3090-24-gb/6254441?pfm=srh", 
+    "xpath": "//*[@id=\"main\"]/div/div[1]/div[2]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/span[2]",
+    "expected_text": "3-6 Business Days",
+    "negate_check": true
+},
+{
+    "name": "cdw.ca - EVGA GeForce RTX 3090 FTW3 ULTRA GAMING",
+    "url": "https://www.cdw.ca/product/evga-geforce-rtx-3090-ftw3-ultra-gaming-graphics-card-gf-rtx-3090-24/6262245?pfm=srh", 
+    "xpath": "//*[@id=\"main\"]/div/div[1]/div[2]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/span[2]",
+    "expected_text": "3-6 Business Days",
+    "negate_check": true
+},
+{
+    "name": "cdw.ca - EVGA GeForce RTX 3090 XC3 ULTRA GAMING",
+    "url": "https://www.cdw.ca/product/evga-geforce-rtx-3090-xc3-ultra-gaming-graphics-card-gf-rtx-3090-24-g/6262241?pfm=srh", 
+    "xpath": "//*[@id=\"main\"]/div/div[1]/div[2]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/span[2]",
+    "expected_text": "3-6 Business Days",
+    "negate_check": true
+},
+{
+    "name": "cdw.ca - MSI RTX 3090 GAMING X TRIO",
+    "url": "https://www.cdw.ca/product/msi-rtx-3090-gaming-x-trio-graphics-card-gf-rtx-3090-24-gb/6254439?pfm=srh", 
+    "xpath": "//*[@id=\"main\"]/div/div[1]/div[2]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/span[2]",
+    "expected_text": "3-6 Business Days",
+    "negate_check": true
+},
+{
+    "name": "cdw.ca - EVGA GeForce RTX 3090 FTW3 GAMING",
+    "url": "https://www.cdw.ca/product/evga-geforce-rtx-3090-ftw3-gaming-graphics-card-gf-rtx-3090-24-gb/6262243?pfm=srh", 
+    "xpath": "//*[@id=\"main\"]/div/div[1]/div[2]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/span[2]",
+    "expected_text": "3-6 Business Days",
+    "negate_check": true
+},
+{
+    "name": "cdw.ca - PNY XLR8 GeForce RTX 3090 Gaming EPIC-X RGB",
+    "url": "https://www.cdw.ca/product/pny-xlr8-geforce-rtx-3090-gaming-epic-x-rgb-xlr8-gaming-edition-graphic/6254227?pfm=srh", 
+    "xpath": "//*[@id=\"main\"]/div/div[1]/div[2]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/span[2]",
+    "expected_text": "3-6 Business Days",
+    "negate_check": true
+},
+{
+    "name": "cdw.ca - EVGA GeForce RTX 3090 XC3 GAMING",
+    "url": "https://www.cdw.ca/product/evga-geforce-rtx-3090-xc3-gaming-graphics-card-gf-rtx-3090-24-gb/6262236?pfm=srh", 
+    "xpath": "//*[@id=\"main\"]/div/div[1]/div[2]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/span[2]",
+    "expected_text": "3-6 Business Days",
+    "negate_check": true
+},
+{
+    "name": "cdw.ca - ZOTAC GAMING GeForce RTX 3090 Trinity",
+    "url": "https://www.cdw.ca/product/zotac-gaming-geforce-rtx-3090-trinity-graphics-card-gf-rtx-3090-24-gb/6265772?pfm=srh", 
+    "xpath": "//*[@id=\"main\"]/div/div[1]/div[2]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/span[2]",
+    "expected_text": "3-6 Business Days",
+    "negate_check": true
+},
+{
+    "name": "cdw.ca - Asus TUF-RTX3090-O24G-GAMING - OC Edition",
+    "url": "https://www.cdw.ca/product/asus-tuf-rtx3090-o24g-gaming-oc-edition-graphics-card-gf-rtx-3090-2/6265780?pfm=srh", 
+    "xpath": "//*[@id=\"main\"]/div/div[1]/div[2]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/span[2]",
+    "expected_text": "3-6 Business Days",
+    "negate_check": true
+},
+{
+    "name": "canadacomputers.com - EVGA GeForce RTX 3090 FTW3 ULTRA GAMING 24GB",
+    "url": "https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181854", 
+    "xpath": "//*[@id=\"pi-form\"]/div[4]/div[1]/span[2]",
+    "expected_text": "In-Store Back Order",
+    "negate_check": true
+},
+{
+    "name": "canadacomputers.com - GIGABYTE GeForce RTX 3090 EAGLE OC",
+    "url": "https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=184165", 
+    "xpath": "//*[@id=\"pi-form\"]/div[4]/div[1]/span[2]",
+    "expected_text": "In-Store Back Order",
+    "negate_check": true
+},
+{
+    "name": "canadacomputers.com - MSI GeForce RTX 3090 GAMING X TRIO 24G GDDR6X",
+    "url": "https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181350", 
+    "xpath": "//*[@id=\"pi-form\"]/div[4]/div[1]/span[2]",
+    "expected_text": "In-Store Back Order",
+    "negate_check": true
+},
+{
+    "name": "canadacomputers.com - EVGA GeForce RTX 3080 FTW3 ULTRA GAMING",
+    "url": "https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181376", 
+    "xpath": "//*[@id=\"pi-form\"]/div[2]/div[1]/span[2]",
+    "expected_text": "In-Store Back Order",
+    "negate_check": true
+},
+{
+    "name": "canadacomputers.com - MSI GeForce RTX 3080 Gaming X Trio 10GB GDDR6X",
+    "url": "https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181348", 
+    "xpath": "//*[@id=\"pi-form\"]/div[2]/div[1]/span[2]",
+    "expected_text": "In-Store Back Order",
+    "negate_check": true
+},
+{
+    "name": "canadacomputers.com - GIGABYTE GeForce RTX 3080 EAGLE OC 10G GDDR6X",
+    "url": "https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181354", 
+    "xpath": "//*[@id=\"pi-form\"]/div[2]/div[1]/span[2]",
+    "expected_text": "In-Store Back Order",
+    "negate_check": true
+},
+{
+    "name": "canadacomputers.com - MSI GeForce RTX 3080 Ventus 3X 10G OC 10GB",
+    "url": "https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181347", 
+    "xpath": "//*[@id=\"pi-form\"]/div[2]/div[1]/span[2]",
+    "expected_text": "In-Store Back Order",
+    "negate_check": true
+},
+{
+    "name": "canadacomputers.com - EVGA GeForce RTX 3080 XC3 ULTRA GAMING",
+    "url": "https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181375", 
+    "xpath": "//*[@id=\"pi-form\"]/div[2]/div[1]/span[2]",
+    "expected_text": "In-Store Back Order",
+    "negate_check": true
+},
+{
+    "name": "canadacomputers.com - ASUS TUF Gaming GeForce RTX 3080 OC",
+    "url": "https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181415", 
+    "xpath": "//*[@id=\"pi-form\"]/div[2]/div[1]/span[2]",
+    "expected_text": "In-Store Back Order",
+    "negate_check": true
+},
+{
+    "name": "canadacomputers.com - GIGABYTE GeForce RTX 3080 GAMING OC",
+    "url": "https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181353", 
+    "xpath": "//*[@id=\"pi-form\"]/div[2]/div[1]/span[2]",
+    "expected_text": "In-Store Back Order",
+    "negate_check": true
+},
+{
+    "name": "canadacomputers.com - ZOTAC GeForce RTX 3080 TRINITY",
+    "url": "https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181420", 
+    "xpath": "//*[@id=\"pi-form\"]/div[2]/div[1]/span[2]",
+    "expected_text": "In-Store Back Order",
+    "negate_check": true
+},
+{
+    "name": "canadacomputers.com - GIGABYTE AORUS GeForce RTX 3080 MASTER",
+    "url": "https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=182754", 
+    "xpath": "//*[@id=\"pi-form\"]/div[2]/div[1]/span[2]",
+    "expected_text": "In-Store Back Order",
+    "negate_check": true
+},
+{
+    "name": "canadacomputers.com - EVGA GeForce RTX 3080 XC3 BLACK GAMING",
+    "url": "https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181797", 
+    "xpath": "//*[@id=\"pi-form\"]/div[2]/div[1]/span[2]",
+    "expected_text": "In-Store Back Order",
+    "negate_check": true
+},
+{
+    "name": "canadacomputers.com - GIGABYTE GeForce RTX 3080 VISION OC",
+    "url": "https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=182755", 
+    "xpath": "//*[@id=\"pi-form\"]/div[2]/div[1]/span[2]",
+    "expected_text": "In-Store Back Order",
+    "negate_check": true
+},
+{
+    "name": "canadacomputers.com - EVGA GeForce RTX 3080 XC3 GAMING",
+    "url": "https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181798", 
+    "xpath": "//*[@id=\"pi-form\"]/div[2]/div[1]/span[2]",
+    "expected_text": "In-Store Back Order",
+    "negate_check": true
+},
+{
+    "name": "canadacomputers.com - ZOTAC GeForce RTX 3080 TRINITY OC",
+    "url": "https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=183510", 
+    "xpath": "//*[@id=\"pi-form\"]/div[2]/div[1]/span[2]",
+    "expected_text": "In-Store Back Order",
+    "negate_check": true
+},
+{
+    "name": "canadacomputers.com - GIGABYTE GeForce RTX 3080 EAGLE",
+    "url": "https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=184166", 
+    "xpath": "//*[@id=\"pi-form\"]/div[2]/div[1]/span[2]",
+    "expected_text": "In-Store Back Order",
+    "negate_check": true
+},
+{
+    "name": "canadacomputers.com - ZOTAC GAMING GeForce RTX 3080 AMP Holo",
+    "url": "https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=184837", 
+    "xpath": "//*[@id=\"pi-form\"]/div[2]/div[1]/span[2]",
+    "expected_text": "In-Store Back Order",
+    "negate_check": true
+},
+{
+    "name": "canadacomputers.com - MSI GeForce RTX 3080 SUPRIM X",
+    "url": "https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=185084", 
+    "xpath": "//*[@id=\"pi-form\"]/div[2]/div[1]/span[2]",
+    "expected_text": "In-Store Back Order",
+    "negate_check": true
+},
+{
+    "name": "canadacomputers.com - ASUS TUF Gaming GeForce RTX 3090 OC",
+    "url": "https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181413", 
+    "xpath": "//*[@id=\"pi-form\"]/div[4]/div[1]/span[2]",
+    "expected_text": "In-Store Back Order",
+    "negate_check": true
+},
+{
+    "name": "canadacomputers.com - ZOTAC GAMING GeForce RTX 3090 Trinity",
+    "url": "https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181419", 
+    "xpath": "//*[@id=\"pi-form\"]/div[4]/div[1]/span[2]",
+    "expected_text": "In-Store Back Order",
+    "negate_check": true
+},
+{
+    "name": "canadacomputers.com - MSI GeForce RTX 3090 GAMING X TRIO",
+    "url": "https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181350", 
+    "xpath": "//*[@id=\"pi-form\"]/div[4]/div[1]/span[2]",
+    "expected_text": "In-Store Back Order",
+    "negate_check": true
+},
+{
+    "name": "canadacomputers.com - MSI GeForce RTX 3090 VENTUS 3X 24G OC",
+    "url": "https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181349", 
+    "xpath": "//*[@id=\"pi-form\"]/div[4]/div[1]/span[2]",
+    "expected_text": "In-Store Back Order",
+    "negate_check": true
+},
+{
+    "name": "canadacomputers.com - GIGABYTE GeForce RTX 3090 GAMING OC",
+    "url": "https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181351", 
+    "xpath": "//*[@id=\"pi-form\"]/div[4]/div[1]/span[2]",
+    "expected_text": "In-Store Back Order",
+    "negate_check": true
+},
+{
+    "name": "canadacomputers.com - EVGA GeForce RTX 3090 XC3 ULTRA GAMING",
+    "url": "https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181853", 
+    "xpath": "//*[@id=\"pi-form\"]/div[4]/div[1]/span[2]",
+    "expected_text": "In-Store Back Order",
+    "negate_check": true
+},
+{
+    "name": "canadacomputers.com - EVGA GeForce RTX 3090 XC3 GAMING",
+    "url": "https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181852", 
+    "xpath": "//*[@id=\"pi-form\"]/div[4]/div[1]/span[2]",
+    "expected_text": "In-Store Back Order",
+    "negate_check": true
+},
+{
+    "name": "canadacomputers.com - GIGABYTE GeForce RTX 3090 VISION OC",
+    "url": "https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=184164", 
+    "xpath": "//*[@id=\"pi-form\"]/div[4]/div[1]/span[2]",
+    "expected_text": "In-Store Back Order",
+    "negate_check": true
+}]
