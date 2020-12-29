@@ -1,0 +1,28 @@
+[{
+    "name": "canadacomputers.com - AMD 5600X",
+    "url": "https://www.canadacomputers.com/product_info.php?cPath=4_64_1969&item_id=183432", 
+    "xpath": "//*[@id=\"pi-form\"]/div[2]/div[1]/span[2]",
+    "expected_text": "In-Store Back Order",
+    "negate_check": true
+},
+{
+    "name": "newegg.ca - AMD 5600X",
+    "url": "https://www.newegg.ca/amd-ryzen-5-5600x/p/N82E16819113666?Description=5600x&cm_re=5600x-_-19-113-666-_-Product", 
+    "xpath": "//*[@id=\"ProductBuy\"]/div/div/span",
+    "expected_text": "Sold Out",
+    "negate_check": true
+},
+{
+    "name": "memoryexpress.com - AMD 5600X",
+    "url": "https://www.memoryexpress.com/Products/MX00114455", 
+    "xpath": "//*[@id=\"ProductDetailsPanel\"]/div[6]/section/div[1]/span",
+    "expected_text": "Out of Stock",
+    "negate_check": true
+},
+{
+    "name": "cdw.ca - AMD 5600X",
+    "url": "https://www.cdw.ca/product/amd-ryzen-5-5600x-3.7-ghz-processor/6313997", 
+    "xpath": "//*[@id=\"main\"]/div/div[1]/div[2]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/span[2]",
+    "expected_text": "3-6 Business Days",
+    "negate_check": true
+}]
