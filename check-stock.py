@@ -1,3 +1,4 @@
+import argparse
 import datetime
 import json
 from lxml import etree
@@ -8,8 +9,13 @@ from termcolor import colored
 import time
 import urllib.request
 
+PARSER = argparse.ArgumentParser(description='Check inventory at various websites.')
+PARSER.add_argument('--config', help='Path to config file.')
+
 def main():
-    with open('config.json') as f:
+    args = vars(PARSER.parse_args())
+    
+    with open(args['config']) as f:
         config = json.load(f)
         random.shuffle(config)
 
