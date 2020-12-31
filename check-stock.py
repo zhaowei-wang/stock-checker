@@ -21,6 +21,7 @@ def main():
 
     driver = webdriver.Chrome()
     driver.implicitly_wait(10)
+    driver.minimize_window()
 
     for check in config:
         try:
